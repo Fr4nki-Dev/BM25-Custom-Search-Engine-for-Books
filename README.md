@@ -104,11 +104,3 @@ It demonstrates how to calculate:
 - Average scores by query type
 
 
-## Future Improvements
-
-- Add a command-line interface alongside the GUI
-- Cache pre-processed documents for faster start-up
-- Add formal test queries with relevance judgements
-- Package the application using PyInstaller
-- Add configurable BM25 and field-weight parameters
-- Improve query understanding for age range, genre, and theme filters
