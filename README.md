@@ -2,6 +2,10 @@
 
 A Python desktop application for searching book summaries using a hybrid information retrieval pipeline. The system combines BM25 ranking, weighted metadata fields, query expansion, and Latent Semantic Indexing (LSI) to return relevant books from a structured book-summary dataset.
 
+## Dataset Source
+
+https://www.kaggle.com/datasets/arpansri/books-summary
+
 ## Project Overview
 
 This project implements a book retrieval engine for searching by title, author, genre, and plot description. It is designed for queries such as:
